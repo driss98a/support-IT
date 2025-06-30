@@ -1,0 +1,11 @@
+README.md
+scripts/
+inventaire_parcs.ps1
+depannage_reseau.bat
+deploy_soft.sh
+docs/ 
+guides_installations_serveur.md
+procedure_sauvegarde.md
+configs/
+nginx.conf
+firewall_rules.yaml
